@@ -8,7 +8,7 @@ After this you don't have to wander anywhere to know about Deep Learning, it's n
 ![Language used](https://img.shields.io/github/languages/top/vipul02/DeepLearning.svg?style=popout) 
 
 
-![#brain #neurons](https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif)
+<div style="text-align:center"><img src="https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif" alt="#brain #neurons"/></div>
 
 
 ## Built with
