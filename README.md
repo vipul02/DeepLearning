@@ -8,7 +8,7 @@ After this you don't have to wander anywhere to know about Deep Learning, it's n
 ![Language used](https://img.shields.io/github/languages/top/vipul02/DeepLearning.svg?style=popout) 
 
 
-## TODO: Images, GIFs
+![#brain #neurons](https://media.giphy.com/media/l41lJ8ywG1ncm9FXW/giphy.gif)
 
 
 ## Built with
@@ -21,7 +21,10 @@ After this you don't have to wander anywhere to know about Deep Learning, it's n
 This repo will contain everything related to DeepLearning. _**OneForAll**_
 
 
-## TODO: Usage
+## Zapaak-Whoosh
+
+1. [Deep Learning Gallery - a curated list of awesome deep learning projects](http://deeplearninggallery.com/)
+2. 
 
 
 ## Contribute
