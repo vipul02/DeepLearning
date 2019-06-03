@@ -30,5 +30,6 @@ Fork it and contribute in it. You are most welcomed. :blush:
 
 ## License
 
+MIT License
 
-MIT © [Vipul Lalwani](https://github.com/vipul02/DeepLearning)
+[Copyright (c) 2019 Vipul Lalwani](https://github.com/vipul02/DeepLearning/blob/master/LICENSE)
